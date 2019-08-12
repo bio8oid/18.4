@@ -3,4 +3,4 @@
 _Making React components - practice_
 
 
-[VIEW](https://bio8oid.github.io/18.4/)
+[VIEW](https://bio8oid.github.io/18.4__React_componenets-Film_List/)
